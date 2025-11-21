@@ -69,7 +69,3 @@ Inclui inserts para:
 ## 📄 Licença
 Uso livre para estudo ou projetos comerciais.
 
----
-
-Quer que eu gere também o **diagrama ERD** ou uma **versão em inglês** para o GitHub?
-
